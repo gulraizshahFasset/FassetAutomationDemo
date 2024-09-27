@@ -1,0 +1,58 @@
+{
+  "LoginCredentials":
+  {
+    "ValidAccountDetails": {
+      "Email": "dehya.kamran@tkxel.io",
+      "Password": "Abcd@123456"
+    },
+    "InValidAccountDetails": {
+      "Email": "tirumala.yeruva@gmail.com",
+      "Password": "Ytnaidu@1986"
+    },
+    "ValidAccountDetailsAdmin": {
+      "Email": "naveen.zehra@fasset.com",
+      "Password": "123456"
+    },
+    "IndonesianAutomationAccountDetails": {
+      "Email": "fjk32@mailinator.com",
+      "Password": "123456"
+    },
+    "GlobalAutomationAccountDetails": {
+      "Email": "revi2@mailinator.com",
+      "Password": "Test@123456"
+    }
+  },
+  "Customer":
+  {
+    "ValidCustomerDetails": {
+      "Id": "288",
+      "Email": "akk@mailinator.com",
+      "Legal Name": "TAHIR ABBAS MUHAMMAD ALI KHAN",
+      "Name": "ADNAN",
+      "Phone": "923318333933"
+    },
+    "InValidCustomerDetails": {
+      "Id": "_288",
+      "Email": "akk123@mailinator.com",
+      "Legal Name": "123TAHIR ABBAS MUHAMMAD ALI KHAN",
+      "Name": "123ADNAN",
+      "Phone": "123923318333933",
+    }
+  },
+  "Gulraiz": {
+    "Address": {
+      "Home": "Hello"
+    }
+  },
+  "Url":
+  {
+    "webUrl":
+    {
+      "url": "https://connectid001.fasset.tech/"
+    },
+    "adminUrl":
+    {
+      "url": "https://dev-admin.fasset.tech/"
+    }
+  }
+}

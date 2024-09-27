@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b478692-13f1-40b8-8829-6ed3e2b8d262" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2mdk1su1Db5aAYuO5Rqherr7CDX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/gulraizshah/Documents/appium-cashapp-development/Fasset-E2E-Test",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.API Automation">
+    <configuration name="API Automation" type="JUnit" factoryName="JUnit">
+      <module name="Fasset-E2E-Test" />
+      <option name="PACKAGE_NAME" value="com.fasset.automation.Runners" />
+      <option name="MAIN_CLASS_NAME" value="com.fasset.automation.Runners.ktApiRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-DrunMode=&quot;local&quot; -DplatformType=&quot;api&quot; -DmobilePlatformType=&quot;api&quot; -DenvironmentType=&quot;dev&quot; -DremoteModeType=&quot;browser_stack&quot; -DdeviceName=&quot;Pixel3a&quot; -Dcucumber.filter.tags=&quot;@API&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Local Mobile Android" type="JUnit" factoryName="JUnit">
+      <module name="Fasset-E2E-Test" />
+      <option name="PACKAGE_NAME" value="com.fasset.automation.Runners" />
+      <option name="MAIN_CLASS_NAME" value="com.fasset.automation.Runners.JunitRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-DrunMode=&quot;local&quot; -DplatformType=&quot;mobile&quot; -DmobilePlatformType=&quot;android&quot; -DenvironmentType=&quot;dev&quot; -DremoteModeType=&quot;browser_stack&quot; -DdeviceName=&quot;Pixel3a&quot; -Dcucumber.filter.tags=&quot;@mobile&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Local Web Chrome" type="JUnit" factoryName="JUnit">
+      <module name="Fasset-E2E-Test" />
+      <option name="PACKAGE_NAME" value="com.fasset.automation.Runners" />
+      <option name="MAIN_CLASS_NAME" value="com.fasset.automation.Runners.JunitRunnerTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-DrunMode=&quot;local&quot; -DplatformType=&quot;web&quot; -DmobilePlatformType=&quot;chrome&quot; -DenvironmentType=&quot;dev&quot; -DremoteModeType=&quot;browser_stack&quot; -DdeviceName=&quot;Pixel3a&quot; -Dcucumber.filter.tags=&quot;@web&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Local Mobile Android" />
+      <item itemvalue="JUnit.API Automation" />
+      <item itemvalue="JUnit.Local Web Chrome" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b478692-13f1-40b8-8829-6ed3e2b8d262" name="Changes" comment="" />
+      <created>1727413631468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727413631468</updated>
+    </task>
+    <servers />
+  </component>
+</project>
